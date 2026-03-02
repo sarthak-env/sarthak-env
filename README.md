@@ -1,43 +1,41 @@
-<h3 align="left">Hello, I’m Sarthak.</h3>
+### Terminal
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&duration=1800&pause=300&color=39FF14&vCenter=true&width=600&lines=%24+initializing+profile...;loading+modules+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91;verifying+identity...;access+granted;Sarthak+%7C;echo+%22Hello%2C+I'm+Sarthak%22;Hello%2C+I'm+Sarthak" />
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sarthak-env/sarthak-env/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
 </div>
 
-###
+</div>
+
+
+---
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=800&color=39FF14&vCenter=true&width=220&lines=%24+cat+about.txt;about+me." />
+
+`I'm Sarthak, a developer who enjoys building simple, fast, and thoughtful software. I like working across the stack, exploring AI, and refining the small details that make products feel smooth and intuitive. Most of my time goes into learning, experimenting, and turning ideas into things people can actually use. I'm always up for interesting problems and meaningful collaborations.`
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlhc3VjZzMzcnFraGhjN3RyZnlpMmphZmtrdTdjeGNiM3RvcDI3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsfxnYgAeiznBm2MYY/giphy.gif"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=800&color=39FF14&vCenter=true&width=300&lines=%24+ls+tools;languages+%26+tools." />
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=c,vscode,html,css,figma,js,jquery,git,github,nodejs,npm,express,mysql,postgres,python" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" alt="pandas logo"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" alt="numpy logo"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="scikit-learn logo"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48" alt="matplotlib logo"/>
+
+</div>
