@@ -1,7 +1,8 @@
 ### Terminal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&duration=1800&pause=300&color=39FF14&vCenter=true&width=600&lines=%24+initializing+profile...;loading+modules+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91;verifying+identity...;access+granted;Hello%2C+I'm+Sarthak" />
-
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=28&duration=1800&pause=500&color=39FF14&vCenter=true&width=600&lines=Hi,+I'm+Sarthak.;I+build+clean,+fast+software.;Exploring+AI,+Web+and+Data." />
+</div>
 </div>
 
 </div>
