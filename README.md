@@ -1,5 +1,3 @@
-### Terminal
-
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=38&duration=1800&pause=500&color=39FF14&vCenter=true&width=600&lines=Hi,+I'm+Sarthak.;I+build+clean,+fast+software.;Exploring+AI,+Web+and+Data." />
 </div>
