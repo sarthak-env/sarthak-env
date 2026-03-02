@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=38&duration=1800&pause=500&color=39FF14&vCenter=true&width=600&lines=Hi,+I'm+Sarthak.;I+build+clean,+fast+software.;Exploring+AI,+Web+and+Data." />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=38&duration=1800&pause=500&color=F5F5F5&vCenter=true&width=600&lines=Hi,+I'm+Sarthak.;I+build+clean,+fast+software.;Exploring+AI,+Web+and+Data." />
 </div>
 </div>
 
@@ -12,7 +12,7 @@
 <tr>
 <td width="60%" valign="top">
 
-![About Me](https://img.shields.io/badge/About%20Me-39FF14?style=for-the-badge)
+![About Me](https://img.shields.io/badge/About%20Me-1E90FF?style=for-the-badge)
 
 `I’m Sarthak, a developer who enjoys building simple, fast, and thoughtful software. I like working across the stack, exploring AI, and refining the small details that make products feel smooth and intuitive.
 
@@ -22,7 +22,7 @@ Most of my time goes into learning, experimenting, and turning ideas into things
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlhc3VjZzMzcnFraGhjN3RyZnlpMmphZmtrdTdjeGNiM3RvcDI3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsfxnYgAeiznBm2MYY/giphy.gif"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdng2NHRkbzA0eDIzcHk5MXA5aWhhdWF4dGgwb3FydzcyOXU2anVxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FEGCSEwcZYWHi5gudF/giphy.gif"/>
 
 </td>
 </tr>
@@ -30,7 +30,7 @@ Most of my time goes into learning, experimenting, and turning ideas into things
 
 ---
 
-![Languages & Tools](https://img.shields.io/badge/Languages&Tools%20-39FF14?style=for-the-badge)
+![Languages & Tools](https://img.shields.io/badge/Languages&Tools%20-1E90FF?style=for-the-badge)
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,vscode,html,css,figma,js,jquery,git,github,nodejs,npm,express,mysql,postgres,python" height="48" alt="skills" />
