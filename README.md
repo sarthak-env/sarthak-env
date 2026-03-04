@@ -41,3 +41,4 @@ Most of my time goes into learning, experimenting, and turning ideas into things
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48" alt="matplotlib logo" />
 </div>
 
+<img src="https://github.com/user-attachments/assets/8d16b70f-1d3e-40a2-9ed8-f471699e47cc" width="100%">
