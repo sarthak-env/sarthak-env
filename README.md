@@ -8,8 +8,6 @@
 
 <img align="right" width="25%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdng2NHRkbzA0eDIzcHk5MXA5aWhhdWF4dGgwb3FydzcyOXU2anVxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FEGCSEwcZYWHi5gudF/giphy.gif"/>
 
-<br>
-
 I'm Sarthak, a developer who enjoys building simple, fast, and thoughtful software. I work across the full stack and I'm deeply curious about where AI meets real-world applications.
 
 Most of my time goes into learning and turning ideas into things people can actually use. I believe great software is less about clever code and more about solving the right problems.
@@ -20,12 +18,16 @@ Always up for interesting challenges and meaningful collaborations.
 
 <br clear="right"/>
 
+<br>
+
 ![My Tech Stack](https://img.shields.io/badge/My%20Tech%20Stack-2188FF?style=for-the-badge)
 
-<img align="right" width="42%" src="https://streak-stats.demolab.com?user=sarthak-env&theme=tokyonight&border=2188FF&background=0d1117&ring=2188FF&fire=2188FF&currStreakLabel=2188FF&card_width=400"/>
+<img align="right" width="40%" src="https://streak-stats.demolab.com?user=sarthak-env&theme=tokyonight&border=2188FF&background=0d1117&ring=2188FF&fire=2188FF&currStreakLabel=2188FF&card_width=400"/>
 
-![](https://skillicons.dev/icons?i=c,html,css,figma,js,vscode,jquery,nodejs,npm,express)
-![](https://skillicons.dev/icons?i=mysql,postgres,github,npm)
+![](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,express,npm,git)
+<br/>
+![](https://skillicons.dev/icons?i=mysql,postgres,python,figma,vscode,github,c)
+<br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" width="48" alt="pandas" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" width="48" alt="numpy" />
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" width="48" alt="scikit-learn" />
@@ -38,4 +40,3 @@ Always up for interesting challenges and meaningful collaborations.
 ![Contribution Graph](https://img.shields.io/badge/Contribution%20Graph-2188FF?style=for-the-badge)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-env&bg_color=0d1117&color=2188FF&line=2188FF&point=ffffff&area=true&border_color=2188FF" width="100%"/>
-
