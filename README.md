@@ -1,3 +1,8 @@
+<img src="https://github.com/user-attachments/assets/8d16b70f-1d3e-40a2-9ed8-f471699e47cc" width="100%" height="70%">
+
+<br>
+<br>
+
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=38&duration=1800&pause=500&color=1F51FF&vCenter=true&width=600&lines=Hi,+I'm+Sarthak.;I+build+clean,+fast+software.;Exploring+AI,+Web+and+Data." />
 </div>
@@ -40,5 +45,3 @@ Most of my time goes into learning, experimenting, and turning ideas into things
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="scikit-learn logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48" alt="matplotlib logo" />
 </div>
-
-<img src="https://github.com/user-attachments/assets/8d16b70f-1d3e-40a2-9ed8-f471699e47cc" width="100%">
