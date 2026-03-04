@@ -1,24 +1,21 @@
-<<img src="https://github.com/user-attachments/assets/edae6f7f-9be1-4c2c-b8a0-294ade39e10b" width="100%">
+<img src="https://github.com/user-attachments/assets/edae6f7f-9be1-4c2c-b8a0-294ade39e10b" width="100%">
 
 <br>
 <br>
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=38&duration=1800&pause=500&color=1F51FF&vCenter=true&width=600&lines=Hi,+I'm+Sarthak.;I+build+clean,+fast+software.;Exploring+AI,+Web+and+Data." />
-</div>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=38&duration=1800&pause=500&color=10B981&stroke=000000&strokeWidth=1&vCenter=true&width=600&lines=Hi,+I'm+Sarthak.;I+build+clean,+fast+software.;Exploring+AI,+Web+and+Data." 
+  />
 </div>
 
-</div>
-
-
----
 <br>
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-![About Me](https://img.shields.io/badge/About%20Me-1E90FF?style=for-the-badge)
+![About Me](https://img.shields.io/badge/About%20Me-10B981?style=for-the-badge)
 
 `I’m Sarthak, a developer who enjoys building simple, fast, and thoughtful software. I like working across the stack, exploring AI, and refining the small details that make products feel smooth and intuitive.
 
@@ -36,7 +33,7 @@ Most of my time goes into learning, experimenting, and turning ideas into things
 
 <br>
 
-![Languages & Tools](https://img.shields.io/badge/Languages&Tools%20-1E90FF?style=for-the-badge)
+![Languages & Tools](https://img.shields.io/badge/Languages&Tools%20-10B981?style=for-the-badge)
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,vscode,html,css,figma,js,jquery,git,github,nodejs,npm,express,mysql,postgres,python" height="48" alt="skills" />
