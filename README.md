@@ -1,8 +1,11 @@
 <img src="https://github.com/user-attachments/assets/edae6f7f-9be1-4c2c-b8a0-294ade39e10b" width="100%">
 <br>
 <br>
-<h1>Hello, I'm Sarthak.</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=37&pause=1000&color=2188FF&width=435&lines=Hello%2C+I'm+Sarthak.)](https://git.io/typing-svg)
+
 <br>
+
 
 ![About Me](https://img.shields.io/badge/About%20Me-2188FF?style=for-the-badge)
 
@@ -24,9 +27,9 @@ Always up for interesting challenges and meaningful collaborations.
 
 <img align="right" width="40%" src="https://streak-stats.demolab.com?user=sarthak-env&theme=tokyonight&border=2188FF&background=0d1117&ring=2188FF&fire=2188FF&currStreakLabel=2188FF&card_width=400"/>
 
-![](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,express,npm,git)
+![](https://skillicons.dev/icons?i=c,html,css,figma,js,jquery,nodejs,express)
 <br/>
-![](https://skillicons.dev/icons?i=mysql,postgres,python,figma,vscode,github,c)
+![](https://skillicons.dev/icons?i=npm,git,github,mysql,postgres,react,python,vscode)
 <br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" width="48" alt="pandas" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" width="48" alt="numpy" />
