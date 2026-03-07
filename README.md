@@ -29,7 +29,7 @@ Always up for interesting challenges and meaningful collaborations.
 
 ![](https://skillicons.dev/icons?i=c,html,css,figma,js,jquery,nodejs,express)
 <br/>
-![](https://skillicons.dev/icons?i=npm,git,github,mysql,postgres,react,python,vscode)
+![](https://skillicons.dev/icons?i=npm,git,github,mysql,postgres,react,python,vscode,rust)
 <br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" width="48" alt="pandas" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" width="48" alt="numpy" />
