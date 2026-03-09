@@ -1,7 +1,3 @@
-<img width="100%" src="https://github.com/user-attachments/assets/19797c2b-d58e-4861-9026-5093404e0531" alt="gif"/>
-<br>
-<br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=900&color=2188FF&width=700&lines=Hi+I'm+Sarthak+Gawai;Full-Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;I+Build+Things+For+The+Web;Welcome+To+My+GitHub)](https://git.io/typing-svg)
 
 
