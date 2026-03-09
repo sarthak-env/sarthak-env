@@ -2,12 +2,10 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=37&pause=1000&color=2188FF&width=435&lines=Hello%2C+I'm+Sarthak.)](https://git.io/typing-svg)
-
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=900&color=2188FF&width=700&lines=Hi+I'm+Sarthak+Gawai;Full-Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;I+Build+Things+For+The+Web;Welcome+To+My+GitHub)](https://git.io/typing-svg)
 
 
-![About Me](https://img.shields.io/badge/About%20Me-2188FF?style=for-the-badge)
+![About Me](https://img.shields.io/badge/About%20Me-21D4FF?style=for-the-badge)
 
 <img align="right" width="25%" src="https://github.com/user-attachments/assets/cf2a12f8-3bbb-447a-bd02-af12dfb5e838" alt="gif"/>
 
@@ -23,7 +21,7 @@ Always up for interesting challenges and meaningful collaborations.
 
 <br>
 
-![My Tech Stack](https://img.shields.io/badge/My%20Tech%20Stack-2188FF?style=for-the-badge)
+![My Tech Stack](https://img.shields.io/badge/My%20Tech%20Stack-21D4FF?style=for-the-badge)
 
 <img align="right" width="40%" src="https://streak-stats.demolab.com?user=sarthak-env&theme=tokyonight&border=2188FF&background=0d1117&ring=2188FF&fire=2188FF&currStreakLabel=2188FF&card_width=400"/>
 
@@ -40,6 +38,6 @@ Always up for interesting challenges and meaningful collaborations.
 
 <br>
 
-![Contribution Graph](https://img.shields.io/badge/Contribution%20Graph-2188FF?style=for-the-badge)
+![Contribution Graph](https://img.shields.io/badge/Contribution%20Graph-21D4FF?style=for-the-badge)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-env&bg_color=0d1117&color=2188FF&line=2188FF&point=ffffff&area=true&border_color=2188FF" width="100%"/>
