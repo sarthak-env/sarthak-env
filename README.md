@@ -9,7 +9,7 @@
 
 ![About Me](https://img.shields.io/badge/About%20Me-2188FF?style=for-the-badge)
 
-<img align="right" width="25%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdng2NHRkbzA0eDIzcHk5MXA5aWhhdWF4dGgwb3FydzcyOXU2anVxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FEGCSEwcZYWHi5gudF/giphy.gif"/>
+<img align="right" width="25%" src="https://github.com/user-attachments/assets/f9239add-0d22-4338-aa45-298f8f4a6f13" alt="gif"/>
 
 I'm Sarthak, a developer who enjoys building simple, fast, and thoughtful software. I work across the full stack and I'm deeply curious about where AI meets real-world applications.
 
