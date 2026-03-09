@@ -7,8 +7,6 @@
 
 ![About Me](https://img.shields.io/badge/About%20Me-4A5568?style=for-the-badge)
 
-<img align="right" width="25%" src="https://github.com/user-attachments/assets/cf2a12f8-3bbb-447a-bd02-af12dfb5e838" alt="gif"/>
-
 I'm Sarthak, a developer who enjoys building simple, fast, and thoughtful software. I work across the full stack and I'm deeply curious about where AI meets real-world applications.
 
 Most of my time goes into learning and turning ideas into things people can actually use. I believe great software is less about clever code and more about solving the right problems.
@@ -23,7 +21,7 @@ Always up for interesting challenges and meaningful collaborations.
 
 ![My Tech Stack](https://img.shields.io/badge/My%20Tech%20Stack-4A5568?style=for-the-badge)
 
-<img align="right" width="40%" src="https://streak-stats.demolab.com?user=sarthak-env&theme=tokyonight&border=4A5568&background=0d1117&ring=2188FF&fire=1158C7&currStreakLabel=2188FF&sideLabels=2188FF&dates=4A5568&card_width=400"/>
+<img align="right" width="40%" src="https://streak-stats.demolab.com?user=sarthak-env&theme=tokyonight&border=4A5568&background=0d1117&ring=2188FF&fire=1158C7&currStreakLabel=2188FF&sideLabels=2188FF&dates=4A5568&sideNums=D1D5DB&currStreakNum=D1D5DB&card_width=400"/>
 
 ![](https://skillicons.dev/icons?i=c,html,css,figma,js,jquery,nodejs,express)
 <br/>
@@ -40,4 +38,4 @@ Always up for interesting challenges and meaningful collaborations.
 
 ![Contribution Graph](https://img.shields.io/badge/Contribution%20Graph-4A5568?style=for-the-badge)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-env&bg_color=0d1117&color=4A5568&line=2188FF&point=1158C7&area=true&border_color=4A5568" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-env&bg_color=0d1117&color=4A5568&line=2188FF&point=D1D5DB&area=true&border_color=4A5568" width="100%"/>
