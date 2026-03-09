@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=900&color=2188FF&width=700&lines=Hi+I'm+Sarthak+Gawai;Full-Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;I+Build+Things+For+The+Web;Welcome+To+My+GitHub)](https://git.io/typing-svg)
 
 
-![About Me](https://img.shields.io/badge/About%20Me-21D4FF?style=for-the-badge)
+![About Me](https://img.shields.io/badge/About%20Me-4A5568?style=for-the-badge)
 
 <img align="right" width="25%" src="https://github.com/user-attachments/assets/cf2a12f8-3bbb-447a-bd02-af12dfb5e838" alt="gif"/>
 
@@ -21,9 +21,9 @@ Always up for interesting challenges and meaningful collaborations.
 
 <br>
 
-![My Tech Stack](https://img.shields.io/badge/My%20Tech%20Stack-21D4FF?style=for-the-badge)
+![My Tech Stack](https://img.shields.io/badge/My%20Tech%20Stack-4A5568?style=for-the-badge)
 
-<img align="right" width="40%" src="https://streak-stats.demolab.com?user=sarthak-env&theme=tokyonight&border=2188FF&background=0d1117&ring=2188FF&fire=2188FF&currStreakLabel=2188FF&card_width=400"/>
+<img align="right" width="40%" src="https://streak-stats.demolab.com?user=sarthak-env&theme=tokyonight&border=4A5568&background=0d1117&ring=2188FF&fire=1158C7&currStreakLabel=2188FF&sideLabels=2188FF&dates=4A5568&card_width=400"/>
 
 ![](https://skillicons.dev/icons?i=c,html,css,figma,js,jquery,nodejs,express)
 <br/>
@@ -38,6 +38,6 @@ Always up for interesting challenges and meaningful collaborations.
 
 <br>
 
-![Contribution Graph](https://img.shields.io/badge/Contribution%20Graph-21D4FF?style=for-the-badge)
+![Contribution Graph](https://img.shields.io/badge/Contribution%20Graph-4A5568?style=for-the-badge)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-env&bg_color=0d1117&color=2188FF&line=2188FF&point=ffffff&area=true&border_color=2188FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-env&bg_color=0d1117&color=4A5568&line=2188FF&point=1158C7&area=true&border_color=4A5568" width="100%"/>
