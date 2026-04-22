@@ -24,7 +24,12 @@ Always up for interesting challenges and meaningful collaborations.
 <br/>
 ![](https://skillicons.dev/icons?i=npm,git,github,mysql,postgres,react,python,vscode)
 <br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" width="48" alt="pandas" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" width="48" alt="numpy" /><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" width="48" alt="scikit-learn" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48" width="48" alt="matplotlib" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48" />
+</p>
 
 <br clear="right"/>
 <br>
