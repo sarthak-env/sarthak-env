@@ -30,7 +30,7 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: ${{ secrets.USER_NAME }}
-        run: python today.py
+        run: run: python -u today.py
       - name: Commit
         run: |-
           git add .
