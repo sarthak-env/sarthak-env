@@ -1,3 +1,6 @@
+[![](https://raw.githubusercontent.com/sarthak-env/sarthak-env/main/dark-mode.svg#gh-dark-mode-only)](https://github.com/sarthak-env/sarthak-env)
+[![](https://raw.githubusercontent.com/sarthak-env/sarthak-env/main/light-mode.svg#gh-light-mode-only)](https://github.com/sarthak-env/sarthak-env)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=900&color=2188FF&width=700&lines=Hi+I'm+Sarthak+Gawai;Full-Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;I+Build+Things+For+The+Web;Welcome+To+My+GitHub)](https://git.io/typing-svg)
 
 ![About Me](https://img.shields.io/badge/About%20Me-4A5568?style=for-the-badge)

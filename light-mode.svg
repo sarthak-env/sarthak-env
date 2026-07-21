@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="480px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="480px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii" transform="translate(22.4,10) scale(0.58)">
+<tspan x="0" y="30">__y-= T~`'y ~:f*</tspan>
+<tspan x="0" y="50">                    _4@_   _    `^*   .   .</tspan>
+<tspan x="0" y="70">                 _  ~,^`~M `?K  .    ' `'</tspan>
+<tspan x="0" y="90">               _/`   `        '              ": ,</tspan>
+<tspan x="0" y="110">              *"                              ` "</tspan>
+<tspan x="0" y="130">             f   '``                              i,</tspan>
+<tspan x="0" y="150">            y _:  `      ______                    '</tspan>
+<tspan x="0" y="170">           J5P`      _y$@@@@@@@@y.</tspan>
+<tspan x="0" y="190">           .`~     yg@@@@@@@@@@@@g:</tspan>
+<tspan x="0" y="210">          _s'     g@@@@@@@@@@@@@@@gy;                .</tspan>
+<tspan x="0" y="230">         ]'`    .g@@@@@@@@@@@@@@@@@@@$_              `</tspan>
+<tspan x="0" y="250">         `      g@@@@@@@@@@@@@@@@@@@@@@::</tspan>
+<tspan x="0" y="270">               g@@@@@@@@@@@@@@@@@@@@@@@y:</tspan>
+<tspan x="0" y="290">           ,   $@@@@@@@@@@@@@@@@@@@@@@@@$y_. .</tspan>
+<tspan x="0" y="310">           t   $@@@@@@@@@@@@@@@@@@@MEF_____'K`:</tspan>
+<tspan x="0" y="330">           I: u@@@@$yaas=*f@@@@@@@WyE@$@@@$gyy'  y</tspan>
+<tspan x="0" y="350">            y_P~y$@@@@@@@@@g~~_Z``a@@@@@@@M@@@s  4L_</tspan>
+<tspan x="0" y="370">          a@$- a@@@@@ERFyB@@$f@@L @@Ba$Ega__$@@  _aF</tspan>
+<tspan x="0" y="390">          $g@@$9@@@@@@@@@@@@$g@@@ 4@@@@@@@@@@@$gL`@@</tspan>
+<tspan x="0" y="410">          $@@@@y@@@@@@@@@@@@y@@@@y`@@@@@@@@@@@_@$j@@</tspan>
+<tspan x="0" y="430">          `@@@@@y@@@@@@@@@@~@@@@@@$_?@@@@@@@Fa@@F@@@</tspan>
+<tspan x="0" y="450">           @@@@@@@@@@@@@PEg@@@@@@@R@@ug@@@$@@@@@ @#$</tspan>
+<tspan x="0" y="470">           4@@@M@@@@@@@@@@@@Ey@@@.ar_g@@@@@@@@@~ g@'</tspan>
+<tspan x="0" y="490">            ~@@g@@@@@@@@@@@@P~~~'~ ``~TT~`?A0T`` F~</tspan>
+<tspan x="0" y="510">              ~~&lt;@@@@$`~~~E$aggaas_.       $g`'</tspan>
+<tspan x="0" y="530">                `dR@@@ gy_g@@@@@@$g$@$:y@@g@[</tspan>
+<tspan x="0" y="550">                 @yT@@@@@@@@@@@@@@@@M`&gt;g@@A`;</tspan>
+<tspan x="0" y="570">                 `Rj@@@@@@@@@@@@RRPF_yg@@:`'</tspan>
+<tspan x="0" y="590">                  `f'R@@@@@@@@@$ag'@@@@@~</tspan>
+<tspan x="0" y="610">                     "F5BR@@@@@B^7:`~F~`     ::</tspan>
+<tspan x="0" y="630">                     $g_ `~MF~``           .:`4</tspan>
+<tspan x="0" y="650">                     4@@gy_              .:___:' `  .</tspan>
+<tspan x="0" y="670">                  .wa@@@@@@$y_  .     .:g@@@@@::     `</tspan>
+<tspan x="0" y="690">              ..|=~'~a@@@@@@@@@$:_*_._g@@@@@@@`:           .</tspan>
+<tspan x="0" y="710">          ,-r_k~`.:: @@@@@@@@@@@gg@gy@@@@@@@@@@'            ^.</tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan x="390" y="30">sarthak@gawai</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Windows 10, Linux Mint</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Environment</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">W.I.E.T</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Jupyter Notebook 7.6, VSCode: 1.129</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">21 years, 10 months, 19 days</tspan>
+
+<tspan x="390" y="150">- Background</tspan> -——————————————————————————————————————————-—-
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">CS Engineering Student</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Domain</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">AI/ML Engineer</tspan>
+
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Browser extension development</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Other</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Reading, Sketching</tspan>
+
+<tspan x="390" y="290">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">sarthak.devlog@gmail.com</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">sarthak-gawai-9b9467270</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">s4thk</tspan>
+
+<tspan x="390" y="390">- Status</tspan> -———————————————————————————————————————————————-—-
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Coffee</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">100%|██████████| fueled [READY]</tspan>
+<tspan x="390" y="440" class="cc">. </tspan><tspan class="key">Sleep</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">86%|████████▌ | 6/7 hrs [recovering]</tspan>
+</text>
+</svg>
