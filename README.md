@@ -1,18 +1,5 @@
 [![](https://raw.githubusercontent.com/sarthak-env/sarthak-env/main/dark-mode.svg#gh-dark-mode-only)](https://github.com/sarthak-env/sarthak-env)
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=900&color=2188FF&width=700&lines=Hi+I'm+Sarthak+Gawai;Full-Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;I+Build+Things+For+The+Web;Welcome+To+My+GitHub)](https://git.io/typing-svg)
-
-![About Me](https://img.shields.io/badge/About%20Me-4A5568?style=for-the-badge)
-
-I'm Sarthak, a developer who enjoys building simple, fast, and thoughtful software. I work across the full stack and I'm deeply curious about where AI meets real-world applications.
-
-Most of my time goes into learning and turning ideas into things people can actually use. I believe great software is less about clever code and more about solving the right problems.
-
-Always up for interesting challenges and meaningful collaborations.
-
-> *"99 little bugs in the code, 99 little bugs... patch one down, compile it around... 127 little bugs in the code."*
-
 <br>
 
 ![My Tech Stack](https://img.shields.io/badge/My%20Tech%20Stack-4A5568?style=for-the-badge)
