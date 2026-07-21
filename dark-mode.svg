@@ -97,7 +97,7 @@ text, tspan {white-space: pre;}
 
 <tspan x="390" y="166">- Background</tspan> -——————————————————————————————————————————-—-
 <tspan x="390" y="188" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">CS Engineering Student</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Domain</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">AI/ML Engineer</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Domain</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">AI/ML Engineer</tspan>
 
 <tspan x="390" y="254" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Browser extension development</tspan>
 <tspan x="390" y="276" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Other</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Reading, Sketching</tspan>
