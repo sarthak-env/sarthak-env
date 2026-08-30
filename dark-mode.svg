@@ -8,14 +8,14 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
+.key {fill: #2188FF;}
+.value {fill: #c9d1d9;}
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<rect width="990px" height="530px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii" transform="translate(10.0,10) scale(0.2965,0.3440)">
 <tspan x="0" y="30">                                                            *++===*+===--::--::-</tspan>
 <tspan x="0" y="50">                                                    *****+=--:::::....:::--==---::-=</tspan>
@@ -89,7 +89,7 @@ text, tspan {white-space: pre;}
 <tspan x="0" y="1410"> ==.:-.  ..........::-:.      .:.::. .::...:.:=+*+*****+==+====----====++++=======++==-</tspan>
 </text>
 <text x="390" y="33" fill="#c9d1d9">
-<tspan x="390" y="33">sarthak@gawai</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="33">sarthak-env</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="55" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Windows 10, Linux Mint</tspan>
 <tspan x="390" y="77" class="cc">. </tspan><tspan class="key">Environment</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">W.I.E.T</tspan>
 <tspan x="390" y="99" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Jupyter Notebook 7.6, VSCode: 1.129</tspan>
@@ -108,7 +108,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="386" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">s4thk</tspan>
 
 <tspan x="390" y="431">- Status</tspan> -———————————————————————————————————————————————-—-
-<tspan x="390" y="453" class="cc">. </tspan><tspan class="key">Coffee</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">100%|██████████| fueled [</tspan><tspan class="addColor">READY</tspan><tspan class="value">]</tspan>
-<tspan x="390" y="486" class="cc">. </tspan><tspan class="key">Sleep</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">86%|████████▌ | 6/7 hrs [</tspan><tspan class="delColor">recovering</tspan><tspan class="value">]</tspan>
+<tspan x="390" y="453" class="cc">. </tspan><tspan class="key">Coffee</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">100%|██████████|</tspan>
+<tspan x="390" y="486" class="cc">. </tspan><tspan class="key">Sleep</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">86%|████████▌|</tspan>
 </text>
 </svg>

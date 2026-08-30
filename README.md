@@ -2,7 +2,7 @@
 
 <br>
 
-![My Tech Stack](https://img.shields.io/badge/My%20Tech%20Stack-4A5568?style=for-the-badge)
+![My Tech Stack](https://img.shields.io/badge/My%20Tech%20Stack-2188FF?style=for-the-badge)
 
 <img align="right" width="40%" src="https://streak-stats.demolab.com?user=sarthak-env&theme=tokyonight&border=4A5568&background=0d1117&ring=2188FF&fire=1158C7&currStreakLabel=2188FF&sideLabels=2188FF&dates=4A5568&sideNums=D1D5DB&currStreakNum=D1D5DB&card_width=400"/>
 
