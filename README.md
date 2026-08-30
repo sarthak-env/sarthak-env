@@ -6,14 +6,13 @@
 
 ![My Tech Stack](https://img.shields.io/badge/My%20Tech%20Stack-0d419d?style=for-the-badge)
 
-![](https://skillicons.dev/icons?i=c,html,css,figma,js,jquery,nodejs,express)
-![](https://skillicons.dev/icons?i=npm,git,github,mysql,postgres,react,python,vscode)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" />
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48" />
-<img src="https://skillicons.dev/icons?i=cpp" height="48" />
-
+<img src="https://skillicons.dev/icons?i=c,html,css,figma,js,jquery,nodejs,express,npm" height="44" />
+<img src="https://skillicons.dev/icons?i=git,github,mysql,postgres,react,python,vscode" height="44" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="44" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="44" />
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="44" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="44" />
+<img src="https://skillicons.dev/icons?i=cpp" height="44" />
 </td>
 <td width="50%" valign="top">
 
