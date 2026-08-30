@@ -1,18 +1,40 @@
 <img src="https://raw.githubusercontent.com/sarthak-env/sarthak-env/main/dark-mode.svg#gh-dark-mode-only" width="100%" alt="sarthak-env" />
-
 <table border="0">
 <tr>
 <td width="50%" valign="top">
 
 ![My Tech Stack](https://img.shields.io/badge/My%20Tech%20Stack-0d419d?style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=c,html,css,figma,js,jquery,nodejs,express,npm" height="44" />
-<img src="https://skillicons.dev/icons?i=git,github,mysql,postgres,react,python,vscode" height="44" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="44" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="44" />
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="44" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="44" />
-<img src="https://skillicons.dev/icons?i=cpp" height="44" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" />
+  <img src="https://skillicons.dev/icons?i=figma" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
+  <img src="https://skillicons.dev/icons?i=express" height="48" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=npm" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" />
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" />
+</p>
+
 </td>
 <td width="50%" valign="top">
 
