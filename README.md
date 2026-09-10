@@ -5,9 +5,9 @@
 
 ![My Tech Stack](https://img.shields.io/badge/My%20Tech%20Stack-0d419d?style=for-the-badge)
 
-![](https://skillicons.dev/icons?i=c,html,css,figma,js,jquery,nodejs,express)
+<img src="https://skillicons.dev/icons?i=c,html,css,figma,js,jquery,nodejs,express" height="40"/>
 <br/>
-![](https://skillicons.dev/icons?i=npm,git,github,mysql,postgres,react,python,vscode)
+<img src="https://skillicons.dev/icons?i=npm,git,github,mysql,postgres,react,python,vscode" height="40"/>
 <br/>
 <div style="display: flex; gap: 16px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" />
@@ -28,4 +28,4 @@
 <br>
 
 ![Contribution Graph](https://img.shields.io/badge/Contribution%20Graph-0d419d?style=for-the-badge)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-env&bg_color=0d1117&color=4A5568&line=0d419d&point=D1D5DB&area=true&border_color=4A5568" width="100%"/>
+<img src="https://raw.githubusercontent.com/sarthak-env/sarthak-env/output/github-activity-graph.svg" width="100%"/>

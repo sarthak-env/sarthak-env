@@ -1,0 +1,22 @@
+name: Update Activity Graph
+on:
+  schedule:
+    - cron: '0 */12 * * *'   # every 12 hours
+  workflow_dispatch:          # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Ashutosh00710/github-readme-activity-graph@v2
+        with:
+          username: sarthak-env
+          output: github-activity-graph.svg
+          bg_color: 0d1117
+          color: 4A5568
+          line: 0d419d
+          point: D1D5DB
+          area: true
+          border_color: 4A5568
