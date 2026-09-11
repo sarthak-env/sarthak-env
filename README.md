@@ -20,7 +20,7 @@
 <td width="50%" valign="top">
 
 ![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-0d419d?style=for-the-badge)
-<img width="100%" src="https://streak-stats.demolab.com?user=sarthak-env&theme=tokyonight&border=4A5568&background=0d1117&ring=0d419d&fire=1158C7&currStreakLabel=0d419d&sideLabels=0d419d&dates=4A5568&sideNums=D1D5DB&currStreakNum=D1D5DB&card_width=400"/>
+<img width="100%" src="./profile/streak.svg"/>
 
 </td>
 </tr>
